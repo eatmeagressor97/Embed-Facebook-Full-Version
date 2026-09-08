@@ -241,4 +241,4 @@ This repository serves as the official landing page for Embed Facebook. The soft
 **Get the most recent version of Embed Facebook today!**
 
 ---
-**Last updated:** 2026-09-08 12:35:30 UTC
+**Last updated:** 2026-09-08 17:03:10 UTC
